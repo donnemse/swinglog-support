@@ -33,7 +33,3 @@ iPhone 설정 앱 > Apple 계정(이름) > 구독에서 스윙로그를 선택�
 [nowonjh@gmail.com](mailto:nowonjh@gmail.com)
 
 [개인정보 처리방침](privacy)
-
----
-
-GDR은 (주)골프존의 상표이며, 이 앱은 골프존과 무관한 개인 제작 앱입니다.
